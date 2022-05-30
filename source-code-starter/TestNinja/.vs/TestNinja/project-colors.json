@@ -1,0 +1,16 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "7328740e-4b78-464f-8352-65d887f2145f": {
+      "ProjectGuid": "7328740e-4b78-464f-8352-65d887f2145f",
+      "DisplayName": "TestNinja",
+      "ColorIndex": 0
+    },
+    "434fdce4-ce97-48a0-a2ad-d4fbde5a06cc": {
+      "ProjectGuid": "434fdce4-ce97-48a0-a2ad-d4fbde5a06cc",
+      "DisplayName": "TestNinja.UnitTests",
+      "ColorIndex": 1
+    }
+  },
+  "NextColorIndex": 2
+}
