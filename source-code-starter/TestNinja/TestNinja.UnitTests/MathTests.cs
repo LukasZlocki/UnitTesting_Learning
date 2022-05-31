@@ -74,5 +74,18 @@ namespace TestNinja.UnitTests
 
 
 
+        // Ignoring the test
+        [Test]
+        [Ignore("Ignoring this test for ... ignore test")]
+        public void Max_IgnoreTheTest_ArgumentsAreEqual_ReturnTheSameArgument()
+        {
+            // Act
+            var result = _math.Max(1, 1);
+
+            // Assert
+            Assert.That(result, Is.EqualTo(1));
+        }
+
+
     }
 }
